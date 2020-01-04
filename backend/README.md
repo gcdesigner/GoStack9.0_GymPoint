@@ -10,4 +10,4 @@ Inicie o projeto:
 
 ### Observação
 
-Caso queira testar as rotas, disponibilizei o arquivo do Insomnia para facilitar a configuração.
+Caso queira testar as rotas, disponibilizei o <a href="https://github.com/gcdesigner/GoStack10_GymPoint/blob/master/backend/Insomnia_2020-01-04.json">arquivo do Insomnia</a> para facilitar a configuração.
