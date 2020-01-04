@@ -29,7 +29,7 @@ Inicie a aplicação backend com:
 
 ### FRONTEND
 
-Acesse a psta "frontend" e instale as dependência:
+Acesse a pasta "frontend" e instale as dependências:
 <code>$ yarn</code>
 
 Inicie o frontend:
